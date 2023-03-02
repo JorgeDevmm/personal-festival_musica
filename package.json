@@ -1,0 +1,23 @@
+{
+  "name": "personal-festival_musica",
+  "version": "1.0.0",
+  "description": "\"Proyecto con Gulp, SASS y HTML\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "\"Jorge Monzón Morales\"",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeDevmm/personal-festival_musica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JorgeDevmm/personal-festival_musica/issues"
+  },
+  "homepage": "https://github.com/JorgeDevmm/personal-festival_musica#readme"
+}
